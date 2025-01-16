@@ -15,7 +15,7 @@
             <a class="navbar-brand" href="{{route('blog.index') }}">Liste des taches</a>
             <a class="navbar-brand" href="{{route('users.index') }}">Liste des utilisateurs</a>
             <a class="navbar-brand" aria-current="page" href="{{ route('tache.create') }}">Ajouter une tache</a>
-            <a class="navbar-brand" aria-current="page" href="{{ route('users.create') }}">Créer un compte</a>
+            <a class="navbar-brand" aria-current="page" href="{{ route('users.create') }}">Ajouter un utilisateur</a>
             
             <div class="collapse navbar-collapse" id="navbarNav">
                 <ul class="navbar-nav ms-auto">
